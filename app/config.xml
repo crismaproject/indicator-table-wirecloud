@@ -11,7 +11,7 @@
         <Name>crisma-indicator-table-widget-wirecloud</Name>
         <!-- Version: Current widget version number-->
         <!-- we include a build # to prevent caching by wirecloud -->
-        <Version>1.0.0.9</Version>
+        <Version>1.0.0.10</Version>
         <!-- DisplayName: Name shown in the UI of the widget -->
         <DisplayName>CRISMA Indicator Table Widget</DisplayName>
         <!-- Author: Widget developer(s) -->
