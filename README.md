@@ -1,7 +1,7 @@
 indicator-table-wirecloud [![Build Status](http://ci.cismet.de/buildStatus/icon?job=indicator-table-wirecloud)](https://ci.cismet.de/view/html5%20javascript/job/indicator-table-wirecloud/)
 =====================================
 
-Wrapper of the indicators table that is part of the [Worldstate Analysis Widgets (AngularJS)](https://github.com/crismaproject/worldstate-analysis-widgets) to make it available on WireCloud seperately.
+Wrapper of the indicators table that is part of the [Worldstate Analysis Widgets (AngularJS)](https://github.com/crismaproject/worldstate-analysis-widgets) to make it available on WireCloud separately.
 
 ## Get started
 
