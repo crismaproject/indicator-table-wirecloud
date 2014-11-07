@@ -6,7 +6,7 @@
     <!-- Catalog.ResourceDescription element. This element defines the core metadata of the widget -->
     <Catalog.ResourceDescription>
         <!-- Vendor: Company that distributes the widget -->
-        <Vendor>cismet_GmbH</Vendor>
+        <Vendor>cismet GmbH</Vendor>
         <!-- Name: Name of the widget -->
         <Name>crisma-indicator-table-widget-wirecloud</Name>
         <!-- Version: Current widget version number-->
